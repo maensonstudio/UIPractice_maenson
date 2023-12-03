@@ -16,6 +16,7 @@
             android:layout_height="wrap_content"
             android:textColor="#FF0000"
             android:textSize="16sp"
+            android:textStyle="bold"
             android:text="안녕하세요"/>
 
         <TextView
@@ -23,12 +24,14 @@
             android:layout_height="wrap_content"
             android:textColor="#00ff00"
             android:textSize="35sp"
+            android:textStyle="italic"
             android:text="반갑습니다"/>
 
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:textSize="16sp"
+            android:textStyle="normal"
             android:text="맨손스튜디오입니다"/>
 
 
